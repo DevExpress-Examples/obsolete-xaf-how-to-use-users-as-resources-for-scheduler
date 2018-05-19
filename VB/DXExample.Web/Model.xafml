@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="MyEvent_ListView" ResourceClassName="DXExample.Module.MyUser" />
+		<ListView ID="MyUser_Events_ListView" EditorTypeName="DevExpress.ExpressApp.Web.Editors.ASPx.ASPxGridListEditor" />
+	</Views>
+	<NavigationItems>
+		<Group ID="Default">
+			<Item ID="Event_ListView" Removed="True" />
+			<Item ID="User_ListView" Removed="True" />
+			<Item ID="MyDetails" Index="4" />
+			<Item ID="MyUser_ListView" Index="2" />
+			<Item ID="MyEvent_ListView" Index="1" />
+			<Item ID="Role_ListView" Index="3" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.3.3.5168" />
+		<SchemaModule Name="SystemModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="SystemAspNetModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="ValidationModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.3.3.5168" IsNewNode="True" />
+	</SchemaModules>
+</Application>
