@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyEvent.cs](./CS/DXExample.Module/MyEvent.cs) (VB: [MyEvent.vb](./VB/DXExample.Module/MyEvent.vb))
+* **[MyUser.cs](./CS/DXExample.Module/MyUser.cs) (VB: [MyUser.vb](./VB/DXExample.Module/MyUser.vb))**
+* [Model.xafml](./CS/DXExample.Web/Model.xafml) (VB: [Model.xafml](./VB/DXExample.Web/Model.xafml))
+* [Model.xafml](./CS/DXExample.Win/Model.xafml) (VB: [Model.xafml](./VB/DXExample.Win/Model.xafml))
+<!-- default file list end -->
 # OBSOLETE - How to use users as resources for Scheduler
 
 
