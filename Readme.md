@@ -2,6 +2,6 @@
 # OBSOLETE - How to use users as resources for Scheduler
 
 
-<strong>============================</strong><strong><br />
-</strong><strong>T</strong><strong>his example will not be maintained any longer, since a similar approach is demonstrated in the </strong><a href="https://www.devexpress.com/Support/Center/p/E1255">How to create fully custom Role, User, Event, Resource classes for use with the Security and Scheduler modules</a><strong> example. Please refer to that example and see how the IResource interface is implemented in its Employee class. </strong><strong><br />
+<strong>============================</strong><br />
+<strong>This example are not maintained any longer. See the following help topic: <a href="https://docs.devexpress.com/eXpressAppFramework/113452/data-security-and-safety/security-system/task-based-help/how-to-implement-a-custom-security-system-user-based-on-an-existing-business-class>How to: Implement a Custom Security System User Based on an Existing Business Class</a><br />
 ============================</strong>
