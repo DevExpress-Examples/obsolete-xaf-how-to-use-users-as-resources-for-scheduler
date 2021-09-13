@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Application>
-  <Views>
-    <ListView Id="MyEvent_ListView" ResourceClass="DXExample.Module.MyUser" />
-    <ListView Id="MyUser_Events_ListView" EditorTypeName="DevExpress.ExpressApp.Win.Editors.GridListEditor" />
-  </Views>
-</Application>
